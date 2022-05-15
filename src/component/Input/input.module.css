@@ -1,0 +1,37 @@
+input {
+  width: 80px;
+  padding: 5px;
+  border-radius: 20px;
+  border: none;
+  background-color: rgba(147, 119, 231, 0.733);
+  color: white;
+}
+input:focus {
+  outline: none;
+}
+.yellowColor {
+  color: yellow;
+}
+.baseClass {
+  border: 1px solid black;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  margin-bottom: 2px;
+}
+.red {
+  border: 1px solid black;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: red;
+  margin-bottom: 2px;
+}
+.green {
+  border: 1px solid black;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: green;
+  margin-bottom: 2px;
+}
