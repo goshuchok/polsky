@@ -3,7 +3,6 @@ import Input from './component/Input/index';
 import './App.css';
 import Header from './component/Header/index';
 import Grid from '@mui/material/Grid';
-import Text from './component/Text';
 
 function App() {
   return (
@@ -18,7 +17,6 @@ function App() {
       >
         <Header />
         <Input />
-        {/* <Text /> */}
       </Grid>
     </div>
   );
